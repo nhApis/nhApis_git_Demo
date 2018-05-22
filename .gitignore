@@ -21,6 +21,7 @@ local.properties
 .idea/
 *.ipr
 *.iws
+out/
 
 # Android Studio Navigation editor temp files
 .navigation/
